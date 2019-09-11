@@ -94,7 +94,8 @@
         android:textSize="32sp"
         android:layout_centerHorizontal="true"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:textColor="#FFF"/>
 
     <ImageView
         android:contentDescription="@string/brushes"
